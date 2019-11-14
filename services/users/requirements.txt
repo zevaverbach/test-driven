@@ -11,6 +11,7 @@ flask-restful==0.3.7
 flask-sqlalchemy==2.4.1
 flask-testing==0.7.1
 flask==1.1.1
+gunicorn==20.0.0
 itsdangerous==1.1.0
 jinja2==2.10.3
 markupsafe==1.1.1
